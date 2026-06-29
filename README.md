@@ -14,10 +14,6 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=xin-521&show_icons=true&theme=radical&count_private=true" /></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xin-521&layout=compact&theme=radical&langs_count=8" /></td>
-  </tr>
-  <tr>
     <td width="50%"><img src="https://streak-stats.demolab.com/?user=xin-521&theme=radical" /></td>
     <td width="50%"><img src="https://github-immortality.vercel.app/api?username=xin-521" /></td>
   </tr>
@@ -27,11 +23,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xin-521&theme=radical&bg_color=141321&area=true&hide_border=true" width="100%"/>
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xin-521&theme=radical&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
 
 ## 🐍 Contribution Snake
 
@@ -41,11 +32,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xin-521/xin-521/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-## 📈 3D Contributions
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" width="70%"/>
-</p>
 
 ## 📈 Metrics
 
