@@ -10,6 +10,7 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <table>
@@ -18,6 +19,11 @@
     <td width="50%"><img src="https://github-immortality.vercel.app/api?username=xin-521" /></td>
   </tr>
 </table>
+
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📈 Activity Graph
 
@@ -36,11 +42,6 @@
 ## 📈 Metrics
 
 <img src="github-metrics.svg" width="100%"/>
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
