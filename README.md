@@ -23,11 +23,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Disk Cleaner - AI 驱动的智能磁盘清理助手](https://www.zeroxin.xin/2026/07/31/ai-disk-cleaner-introduction/)
 - [LaTeXSnipper：一款开源免费的公式识别与数学编辑工作空间](https://www.zeroxin.xin/2026/07/26/LaTeXSnipper%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D/)
 - [dnspick：一句话选出最适合你的 DNS 服务器](https://www.zeroxin.xin/2026/07/26/dnspick%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D/)
 - [Linux 桌面环境全面指南：主流 GUI 桌面环境对比与安装](https://www.zeroxin.xin/2026/06/27/Linux-Desktop-Environments-Guide/)
 - [A Complete Guide to Linux Desktop Environments: Comparison and Installation](https://www.zeroxin.xin/en/linux-desktop-environments-guide/)
-- [IPtools 网络工具箱：Android 开源网络诊断工具，集成 Ping/端口扫描/路由追踪等 13 项功能](https://www.zeroxin.xin/2026/06/18/IPtools-%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7%E7%AE%B1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Activity Graph
