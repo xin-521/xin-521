@@ -30,11 +30,6 @@
 - [A Complete Guide to Linux Desktop Environments: Comparison and Installation](https://www.zeroxin.xin/en/linux-desktop-environments-guide/)
 <!-- BLOG-POST-LIST:END -->
 
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xin-521&theme=radical&bg_color=141321&area=true&hide_border=true" width="100%"/>
-
-
 ## 🐍 Contribution Snake
 
 <picture>
